@@ -1,4 +1,5 @@
 Liste des eleves et de leurs passions :
+Fastoch ou pas
 simon musique 
 Nicolas, apprendre à pousser des projets sur GITHUB et c'est super simple.
 Jérôme : Canicross
